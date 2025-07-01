@@ -1,6 +1,12 @@
-# Diabetes Prediction Project - EB3204 Pembelajaran Mesin dalam Teknik Biomedis
+<div align="center">
+
+# Diabetes Prediction Project
+
+## EB3204 Pembelajaran Mesin dalam Teknik Biomedis
 
 A machine learning project to predict diabetes risk using the Pima Indians Diabetes Dataset.
+
+</div>
 
 ## Overview
 This project develops a classification model to predict diabetes onset based on medical measurements. The best performing model achieved **82.3% ROC AUC** on the test set.
